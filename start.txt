@@ -1,0 +1,3 @@
+check/start
+say/Welcome to TBAGS!
+end/
